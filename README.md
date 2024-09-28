@@ -1,2 +1,2 @@
-# python-django-fullstack
-python and django fullstack drive
+# Django
+Python full stack web development using Django
